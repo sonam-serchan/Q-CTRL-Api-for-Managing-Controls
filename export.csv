@@ -1,0 +1,8 @@
+name,type,maximum_rabi_rate,polar_angle
+Single-Qubit Driven,Primitive,63.16731,0.05671
+Two-Qubit Parametric Drive,Gaussian,70.03844,0.09843
+Single-Qubit Dynamic Decoupling,CORPSE,87.00172,0.02688
+Control 4,CinBB,97.07732,0.09173
+Control 3,CORPSE,5.9,0.678
+Control 2,Gaussian,34.00172,0.19173
+Control 1,CinSK,78.09789,0.3648
